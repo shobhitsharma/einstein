@@ -14,6 +14,7 @@
 		EE3337D51DCC0E8D000CCCF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE3337D31DCC0E8D000CCCF5 /* LaunchScreen.storyboard */; };
 		EE3337E01DCC0E8E000CCCF5 /* EinsteinTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3337DF1DCC0E8E000CCCF5 /* EinsteinTests.swift */; };
 		EE3337EB1DCC0E8E000CCCF5 /* EinsteinUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3337EA1DCC0E8E000CCCF5 /* EinsteinUITests.swift */; };
+		EE3337F91DCC0EE1000CCCF5 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EE3337F81DCC0EE1000CCCF5 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		EE3337E61DCC0E8E000CCCF5 /* EinsteinUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EinsteinUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE3337EA1DCC0E8E000CCCF5 /* EinsteinUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EinsteinUITests.swift; sourceTree = "<group>"; };
 		EE3337EC1DCC0E8E000CCCF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE3337F81DCC0EE1000CCCF5 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		EE3337BE1DCC0E8D000CCCF5 = {
 			isa = PBXGroup;
 			children = (
+				EE3337F81DCC0EE1000CCCF5 /* .gitignore */,
 				EE3337C91DCC0E8D000CCCF5 /* Einstein */,
 				EE3337DE1DCC0E8E000CCCF5 /* EinsteinTests */,
 				EE3337E91DCC0E8E000CCCF5 /* EinsteinUITests */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE3337F91DCC0EE1000CCCF5 /* .gitignore in Resources */,
 				EE3337D51DCC0E8D000CCCF5 /* LaunchScreen.storyboard in Resources */,
 				EE3337D21DCC0E8D000CCCF5 /* Assets.xcassets in Resources */,
 				EE3337D01DCC0E8D000CCCF5 /* Main.storyboard in Resources */,
